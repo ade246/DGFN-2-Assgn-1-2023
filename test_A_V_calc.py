@@ -28,3 +28,12 @@ def test_calculate_volume_2():
     assert result == 10.0  # expected result
     assert result == 8.0  # Replace with the expected result
     assert result == 14.0  # Replace with the expected result
+
+
+
+def test_calculate_area_1():
+    # Test calculation 3 (Rectangle area)
+    result = A_V_calc.calculate_area_1([4.0, 5.0])  # Replace with the appropriate length and width
+    assert result == 10.0  # expected result
+    assert result == 20.0  # Replace with the expected result
+    assert result == 40.0  # Replace with the expected result
