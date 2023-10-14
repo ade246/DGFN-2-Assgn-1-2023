@@ -37,3 +37,12 @@ def test_calculate_area_1():
     assert result == 10.0  # expected result
     assert result == 20.0  # Replace with the expected result
     assert result == 40.0  # Replace with the expected result
+
+
+
+def test_calculate_area_2():
+    # Test calculation 4 (Triangle area)
+    result = A_V_calc.calculate_area_2([6.0, 8.0])  # Replace with the appropriate base and height
+    assert result == 10.0  # Replace with the expected result
+    assert result == 24.0  # expected result
+    assert result == 14.0  # Replace with the expected result
