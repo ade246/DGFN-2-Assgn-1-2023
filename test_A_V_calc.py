@@ -46,3 +46,18 @@ def test_calculate_area_2():
     assert result == 10.0  # Replace with the expected result
     assert result == 24.0  # expected result
     assert result == 14.0  # Replace with the expected result
+
+
+
+def test_calculate_area_3():
+    # Test calculation 5 (Trapezoid area)
+    result = A_V_calc.calculate_area_3([5.0, 7.0, 10.0])  # Replace with the appropriate base1, base2, and height
+    assert result == 75.0  # Replace with the expected result
+    assert result == 55.0  # Replace with the expected result
+    assert result == 60.0  # expected result
+
+
+
+
+if __name__ == '__main__':
+    pytest.main()
