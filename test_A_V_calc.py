@@ -2,7 +2,7 @@
 # test_A_V_calc.py
 
 TPRG 2131 Fall 2023 Assignment 1
-October,11 2023
+October,14 2023
 KHARI WALLACE, 100807131,
 Khari Wallace <khari.wallace@dcmail.ca>
 '''
